@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">To Do List</string>
+    <string name="nama">Your Name</string>
+    <string name="login">Login Page</string>
+    <string name="pass">Your Password</string>
+    <string name="list1">Title</string>
+    <string name="list2">Deadline</string>
+    <string name="list3">Memo</string>
+    <string name="list4">Priority</string>
+    <string name="prioritas1">High</string>
+    <string name="prioritas2">Medium</string>
+    <string name="prioritas3">Low</string>
+    <string name="pass1">Write Here</string>
+
+
+
+</resources>
